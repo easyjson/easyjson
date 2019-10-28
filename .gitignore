@@ -1,3 +1,4 @@
+benchmark/vendor
 .root
 *_easyjson.go
 *.iml
